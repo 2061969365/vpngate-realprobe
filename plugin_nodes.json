@@ -1,0 +1,2670 @@
+[
+ {
+  "ip": "219.100.37.28",
+  "country": "JP",
+  "fqdn": "public-vpn-81.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.202",
+  "country": "JP",
+  "fqdn": "public-vpn-230.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.108",
+  "country": "JP",
+  "fqdn": "public-vpn-150.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.195",
+  "country": "JP",
+  "fqdn": "public-vpn-195.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.32",
+  "country": "JP",
+  "fqdn": "public-vpn-102.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.188",
+  "country": "JP",
+  "fqdn": "public-vpn-231.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.124",
+  "country": "JP",
+  "fqdn": "public-vpn-160.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.213",
+  "country": "JP",
+  "fqdn": "public-vpn-200.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.29",
+  "country": "JP",
+  "fqdn": "public-vpn-84.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.113",
+  "country": "JP",
+  "fqdn": "public-vpn-119.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.161",
+  "country": "JP",
+  "fqdn": "public-vpn-183.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.189",
+  "country": "JP",
+  "fqdn": "public-vpn-239.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.10",
+  "country": "JP",
+  "fqdn": "public-vpn-46.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.186",
+  "country": "JP",
+  "fqdn": "public-vpn-242.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.88",
+  "country": "JP",
+  "fqdn": "public-vpn-121.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.203",
+  "country": "JP",
+  "fqdn": "public-vpn-237.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.56",
+  "country": "JP",
+  "fqdn": "public-vpn-94.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.225",
+  "country": "JP",
+  "fqdn": "public-vpn-53.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.173",
+  "country": "JP",
+  "fqdn": "public-vpn-233.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.196",
+  "country": "JP",
+  "fqdn": "public-vpn-199.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.122",
+  "country": "JP",
+  "fqdn": "public-vpn-161.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.18",
+  "country": "JP",
+  "fqdn": "public-vpn-0.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.102",
+  "country": "JP",
+  "fqdn": "public-vpn-124.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "47.232.209.214",
+  "country": "US",
+  "fqdn": "vpn157939184.opengw.net",
+  "ssl_ports": [
+   1488
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-ONUVG0R's owner"
+ },
+ {
+  "ip": "219.100.37.58",
+  "country": "JP",
+  "fqdn": "public-vpn-104.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.162",
+  "country": "JP",
+  "fqdn": "public-vpn-184.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.7",
+  "country": "JP",
+  "fqdn": "public-vpn-43.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.15",
+  "country": "JP",
+  "fqdn": "public-vpn-49.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.169",
+  "country": "JP",
+  "fqdn": "public-vpn-224.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.82",
+  "country": "JP",
+  "fqdn": "public-vpn-65.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.197",
+  "country": "JP",
+  "fqdn": "public-vpn-202.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.218",
+  "country": "JP",
+  "fqdn": "public-vpn-216.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "115.179.206.241",
+  "country": "JP",
+  "fqdn": "laud.opengw.net",
+  "ssl_ports": [
+   443,
+   992,
+   1194,
+   5555
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Japan VPN"
+ },
+ {
+  "ip": "60.75.38.101",
+  "country": "JP",
+  "fqdn": "vpn223473667.opengw.net",
+  "ssl_ports": [
+   1822
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-UD89ECS's owner"
+ },
+ {
+  "ip": "60.149.136.130",
+  "country": "JP",
+  "fqdn": "vpn880633907.opengw.net",
+  "ssl_ports": [
+   1767
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Desktop's owner"
+ },
+ {
+  "ip": "211.128.17.88",
+  "country": "JP",
+  "fqdn": "vpn836042621.opengw.net",
+  "ssl_ports": [
+   1294
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-EKFVKIB's owner"
+ },
+ {
+  "ip": "60.126.217.205",
+  "country": "JP",
+  "fqdn": "vpn844508033.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-E3449JJ's owner"
+ },
+ {
+  "ip": "61.82.162.106",
+  "country": "KR",
+  "fqdn": "vpn302973296.opengw.net",
+  "ssl_ports": [
+   1333
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-HBJMIS5's owner"
+ },
+ {
+  "ip": "118.237.36.183",
+  "country": "JP",
+  "fqdn": "vpn143703231.opengw.net",
+  "ssl_ports": [
+   1372
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-FM50HP4's owner"
+ },
+ {
+  "ip": "60.126.0.2",
+  "country": "JP",
+  "fqdn": "vpn711677985.opengw.net",
+  "ssl_ports": [
+   1730
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-T9O1UH6's owner"
+ },
+ {
+  "ip": "27.139.175.119",
+  "country": "JP",
+  "fqdn": "vpn933716554.opengw.net",
+  "ssl_ports": [
+   1954
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "LAPTOP-T04850NJ's owner"
+ },
+ {
+  "ip": "60.96.219.14",
+  "country": "JP",
+  "fqdn": "vpn473388778.opengw.net",
+  "ssl_ports": [
+   1889
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "masanori-PC's owner"
+ },
+ {
+  "ip": "115.36.204.213",
+  "country": "JP",
+  "fqdn": "vpn583764032.opengw.net",
+  "ssl_ports": [
+   1464
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-R0TFOUF's owner"
+ },
+ {
+  "ip": "118.42.53.222",
+  "country": "KR",
+  "fqdn": "vpn715953533.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1333,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-MT800QG's owner"
+ },
+ {
+  "ip": "121.186.118.191",
+  "country": "KR",
+  "fqdn": "vpn893972689.opengw.net",
+  "ssl_ports": [
+   1934
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "메인컴퓨터's owner"
+ },
+ {
+  "ip": "125.142.173.64",
+  "country": "KR",
+  "fqdn": "vpn626701414.opengw.net",
+  "ssl_ports": [
+   1384
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "KLON's owner"
+ },
+ {
+  "ip": "182.226.193.209",
+  "country": "KR",
+  "fqdn": "vpn676945411.opengw.net",
+  "ssl_ports": [
+   1236
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-A4I3398's owner"
+ },
+ {
+  "ip": "60.61.28.14",
+  "country": "JP",
+  "fqdn": "vpn479254153.opengw.net",
+  "ssl_ports": [
+   1841
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-T20QU97's owner"
+ },
+ {
+  "ip": "125.142.186.87",
+  "country": "KR",
+  "fqdn": "vpn172053061.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "main's owner"
+ },
+ {
+  "ip": "121.137.117.124",
+  "country": "KR",
+  "fqdn": "vpn436828976.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1317,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-EJ6SR2E's owner"
+ },
+ {
+  "ip": "219.100.37.13",
+  "country": "JP",
+  "fqdn": "public-vpn-51.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "219.100.37.211",
+  "country": "JP",
+  "fqdn": "public-vpn-197.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "122.199.109.234",
+  "country": "KR",
+  "fqdn": "vpn981185492.opengw.net",
+  "ssl_ports": [
+   1623
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-BU6GRN4's owner"
+ },
+ {
+  "ip": "219.100.37.17",
+  "country": "JP",
+  "fqdn": "public-vpn-68.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "211.184.148.95",
+  "country": "KR",
+  "fqdn": "vpn110532732.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1920,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-J0UKJUL's owner"
+ },
+ {
+  "ip": "211.51.79.22",
+  "country": "KR",
+  "fqdn": "vpn531263335.opengw.net",
+  "ssl_ports": [
+   1504
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-5T7CVUP's owner"
+ },
+ {
+  "ip": "149.54.231.94",
+  "country": "JP",
+  "fqdn": "vpn844843933.opengw.net",
+  "ssl_ports": [
+   1757
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "sikein's owner"
+ },
+ {
+  "ip": "153.180.162.195",
+  "country": "JP",
+  "fqdn": "vpn671350283.opengw.net",
+  "ssl_ports": [
+   1820
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "藤井3's owner"
+ },
+ {
+  "ip": "219.100.37.206",
+  "country": "JP",
+  "fqdn": "public-vpn-219.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "153.180.162.195",
+  "country": "JP",
+  "fqdn": "vpn927671187.opengw.net",
+  "ssl_ports": [
+   1759
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "サブ's owner"
+ },
+ {
+  "ip": "121.161.196.102",
+  "country": "KR",
+  "fqdn": "vpn669289757.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1902,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-YJW's owner"
+ },
+ {
+  "ip": "175.177.114.100",
+  "country": "JP",
+  "fqdn": "vpn532189985.opengw.net",
+  "ssl_ports": [
+   1281
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-7GG0652's owner"
+ },
+ {
+  "ip": "219.100.37.61",
+  "country": "JP",
+  "fqdn": "public-vpn-117.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "211.104.214.78",
+  "country": "KR",
+  "fqdn": "vpn549895847.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1526,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-0Q0SRLF's owner"
+ },
+ {
+  "ip": "219.100.37.20",
+  "country": "JP",
+  "fqdn": "public-vpn-55.opengw.net",
+  "ssl_ports": [
+   443
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Daiyuu Nobori, Japan. Academic Use Only."
+ },
+ {
+  "ip": "176.123.200.48",
+  "country": "RU",
+  "fqdn": "vpn978689234.opengw.net",
+  "ssl_ports": [
+   1731
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-QDK0HE5's owner"
+ },
+ {
+  "ip": "59.27.95.241",
+  "country": "KR",
+  "fqdn": "vpn154861873.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1674,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-FAKOU21's owner"
+ },
+ {
+  "ip": "95.70.33.91",
+  "country": "RU",
+  "fqdn": "vpn228479212.opengw.net",
+  "ssl_ports": [
+   1665
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "NikolayKolesnikov's owner"
+ },
+ {
+  "ip": "121.164.146.116",
+  "country": "KR",
+  "fqdn": "vpn131652721.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1930,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-8QB088M's owner"
+ },
+ {
+  "ip": "118.41.251.223",
+  "country": "KR",
+  "fqdn": "vpn215697364.opengw.net",
+  "ssl_ports": [
+   1663
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "IVT-1007's owner"
+ },
+ {
+  "ip": "14.52.56.171",
+  "country": "KR",
+  "fqdn": "vpn905823011.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1987,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-88GOHGA's owner"
+ },
+ {
+  "ip": "118.18.160.137",
+  "country": "JP",
+  "fqdn": "vpn186444521.opengw.net",
+  "ssl_ports": [
+   1674
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-QQC90V1's owner"
+ },
+ {
+  "ip": "27.130.207.245",
+  "country": "TH",
+  "fqdn": "vpn441783793.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-7RCSFCB's owner"
+ },
+ {
+  "ip": "118.154.64.54",
+  "country": "JP",
+  "fqdn": "vpn392446430.opengw.net",
+  "ssl_ports": [
+   1948
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "LAPTOP-RSM3UQMQ's owner"
+ },
+ {
+  "ip": "114.164.96.126",
+  "country": "JP",
+  "fqdn": "vpn579932260.opengw.net",
+  "ssl_ports": [
+   1674
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-KDG64HK's owner"
+ },
+ {
+  "ip": "221.167.226.38",
+  "country": "KR",
+  "fqdn": "vpn157315222.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1470,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-QT69DQ9's owner"
+ },
+ {
+  "ip": "118.82.55.107",
+  "country": "JP",
+  "fqdn": "vpn897910605.opengw.net",
+  "ssl_ports": [
+   1290
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "こぶひらのpc's owner"
+ },
+ {
+  "ip": "58.186.70.53",
+  "country": "VN",
+  "fqdn": "vpn381476084.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Admin-PC's owner"
+ },
+ {
+  "ip": "39.110.50.237",
+  "country": "JP",
+  "fqdn": "vpn540491747.opengw.net",
+  "ssl_ports": [
+   1811
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-QPMUH7I's owner"
+ },
+ {
+  "ip": "150.147.97.4",
+  "country": "JP",
+  "fqdn": "vpn441877979.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "takuma's owner"
+ },
+ {
+  "ip": "171.5.176.102",
+  "country": "TH",
+  "fqdn": "vpn567957702.opengw.net",
+  "ssl_ports": [
+   1479
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-B5R4Q5P's owner"
+ },
+ {
+  "ip": "175.127.130.87",
+  "country": "KR",
+  "fqdn": "vpn736691528.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1346,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-M7QOQHK's owner"
+ },
+ {
+  "ip": "126.25.59.240",
+  "country": "JP",
+  "fqdn": "vpn815715390.opengw.net",
+  "ssl_ports": [
+   1248
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-U56TA3S's owner"
+ },
+ {
+  "ip": "60.73.48.68",
+  "country": "JP",
+  "fqdn": "vpn150365618.opengw.net",
+  "ssl_ports": [
+   1680
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-NG5UKQ2's owner"
+ },
+ {
+  "ip": "221.160.132.214",
+  "country": "KR",
+  "fqdn": "vpn315847091.opengw.net",
+  "ssl_ports": [
+   1840
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-9JV3B34's owner"
+ },
+ {
+  "ip": "202.157.113.2",
+  "country": "JP",
+  "fqdn": "vpn456375241.opengw.net",
+  "ssl_ports": [
+   1791
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "disktop2's owner"
+ },
+ {
+  "ip": "118.240.49.38",
+  "country": "JP",
+  "fqdn": "vpn106798950.opengw.net",
+  "ssl_ports": [
+   1688
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "desk's owner"
+ },
+ {
+  "ip": "106.174.122.123",
+  "country": "JP",
+  "fqdn": "vpn294431000.opengw.net",
+  "ssl_ports": [
+   1426
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Bill's owner"
+ },
+ {
+  "ip": "58.87.255.26",
+  "country": "JP",
+  "fqdn": "vpn272949870.opengw.net",
+  "ssl_ports": [
+   1355
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "KAJI8's owner"
+ },
+ {
+  "ip": "59.132.56.168",
+  "country": "JP",
+  "fqdn": "vpn380894043.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "X1's owner"
+ },
+ {
+  "ip": "27.130.159.29",
+  "country": "TH",
+  "fqdn": "vpn963936101.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-UAGSQJV's owner"
+ },
+ {
+  "ip": "175.195.205.200",
+  "country": "KR",
+  "fqdn": "vpn186876378.opengw.net",
+  "ssl_ports": [
+   1645
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "섹시한연산자's owner"
+ },
+ {
+  "ip": "119.175.13.91",
+  "country": "JP",
+  "fqdn": "vpn434008438.opengw.net",
+  "ssl_ports": [
+   1478
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "GWS's owner"
+ },
+ {
+  "ip": "219.104.73.9",
+  "country": "JP",
+  "fqdn": "vpn857437370.opengw.net",
+  "ssl_ports": [
+   1300
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-TV3OSCP's owner"
+ },
+ {
+  "ip": "211.128.19.80",
+  "country": "JP",
+  "fqdn": "vpn588054750.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "TETSUYA's owner"
+ },
+ {
+  "ip": "27.130.15.56",
+  "country": "TH",
+  "fqdn": "vpn241487766.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Panupong's owner"
+ },
+ {
+  "ip": "144.91.151.96",
+  "country": "JP",
+  "fqdn": "vpn109653562.opengw.net",
+  "ssl_ports": [
+   1675
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "NucBox_K8_Plus's owner"
+ },
+ {
+  "ip": "211.194.138.171",
+  "country": "KR",
+  "fqdn": "vpn887613862.opengw.net",
+  "ssl_ports": [
+   1524
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "LinhPC's owner"
+ },
+ {
+  "ip": "60.104.87.31",
+  "country": "JP",
+  "fqdn": "vpn950287300.opengw.net",
+  "ssl_ports": [
+   1881
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-5BO90MF's owner"
+ },
+ {
+  "ip": "60.109.54.100",
+  "country": "JP",
+  "fqdn": "vpn914058380.opengw.net",
+  "ssl_ports": [
+   1296
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "you814's owner"
+ },
+ {
+  "ip": "60.69.234.104",
+  "country": "JP",
+  "fqdn": "vpn506546218.opengw.net",
+  "ssl_ports": [
+   1556
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-1CHUK0B's owner"
+ },
+ {
+  "ip": "125.14.182.207",
+  "country": "JP",
+  "fqdn": "vpn113368656.opengw.net",
+  "ssl_ports": [
+   1956
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "kojima_galleria's owner"
+ },
+ {
+  "ip": "125.139.26.49",
+  "country": "KR",
+  "fqdn": "vpn609211715.opengw.net",
+  "ssl_ports": [
+   1679
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-H635A6F's owner"
+ },
+ {
+  "ip": "125.139.120.76",
+  "country": "KR",
+  "fqdn": "vpn978565254.opengw.net",
+  "ssl_ports": [
+   1579
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-NV39GM9's owner"
+ },
+ {
+  "ip": "180.34.14.33",
+  "country": "JP",
+  "fqdn": "vpn215888696.opengw.net",
+  "ssl_ports": [
+   1342
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "kanimaru's owner"
+ },
+ {
+  "ip": "14.6.186.175",
+  "country": "KR",
+  "fqdn": "vpn574892662.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1246,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-R8QMR7R's owner"
+ },
+ {
+  "ip": "27.130.31.53",
+  "country": "TH",
+  "fqdn": "vpn441482379.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-71OUEH4's owner"
+ },
+ {
+  "ip": "14.101.10.239",
+  "country": "JP",
+  "fqdn": "vpn825186256.opengw.net",
+  "ssl_ports": [
+   1352
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "h1x-Desktop's owner"
+ },
+ {
+  "ip": "119.47.48.187",
+  "country": "JP",
+  "fqdn": "vpn571838615.opengw.net",
+  "ssl_ports": [
+   1946
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "lemon_t_e_a_'s owner"
+ },
+ {
+  "ip": "23.242.215.86",
+  "country": "US",
+  "fqdn": "vpn653088547.opengw.net",
+  "ssl_ports": [
+   1373
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "RM824's owner"
+ },
+ {
+  "ip": "106.137.182.166",
+  "country": "JP",
+  "fqdn": "vpn706565860.opengw.net",
+  "ssl_ports": [
+   1727
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "kiriyazero's owner"
+ },
+ {
+  "ip": "222.118.203.140",
+  "country": "KR",
+  "fqdn": "vpn444365835.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1976,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-1FVSER6's owner"
+ },
+ {
+  "ip": "203.251.182.70",
+  "country": "KR",
+  "fqdn": "vpn916299088.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1705,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "빈컴's owner"
+ },
+ {
+  "ip": "113.153.21.92",
+  "country": "JP",
+  "fqdn": "vpn910284494.opengw.net",
+  "ssl_ports": [
+   1402
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-O38QK75's owner"
+ },
+ {
+  "ip": "118.71.136.133",
+  "country": "VN",
+  "fqdn": "vpn370986181.opengw.net",
+  "ssl_ports": [
+   1528
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-M0L03T8's owner"
+ },
+ {
+  "ip": "203.174.205.235",
+  "country": "JP",
+  "fqdn": "vpn990198929.opengw.net",
+  "ssl_ports": [
+   1228
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-7PU7VVA's owner"
+ },
+ {
+  "ip": "220.120.157.217",
+  "country": "KR",
+  "fqdn": "vpn707256107.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1276,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "KimTaeHyung's owner"
+ },
+ {
+  "ip": "90.149.85.59",
+  "country": "JP",
+  "fqdn": "vpn744032933.opengw.net",
+  "ssl_ports": [
+   1360
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-3VC16N3's owner"
+ },
+ {
+  "ip": "60.91.86.245",
+  "country": "JP",
+  "fqdn": "vpn273295691.opengw.net",
+  "ssl_ports": [
+   1791
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "tokito-PC's owner"
+ },
+ {
+  "ip": "59.138.46.203",
+  "country": "JP",
+  "fqdn": "vpn536044436.opengw.net",
+  "ssl_ports": [
+   1949
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-PGRC9RQ's owner"
+ },
+ {
+  "ip": "125.15.158.63",
+  "country": "JP",
+  "fqdn": "vpn379155927.opengw.net",
+  "ssl_ports": [
+   1853
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "taniguchi-PC's owner"
+ },
+ {
+  "ip": "183.82.205.182",
+  "country": "IN",
+  "fqdn": "vpn972139910.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Hiachi's owner"
+ },
+ {
+  "ip": "126.79.105.117",
+  "country": "JP",
+  "fqdn": "vpn432121661.opengw.net",
+  "ssl_ports": [
+   1585
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-M5C02QJ's owner"
+ },
+ {
+  "ip": "218.46.253.98",
+  "country": "JP",
+  "fqdn": "vpn611290657.opengw.net",
+  "ssl_ports": [
+   1555
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "WS05's owner"
+ },
+ {
+  "ip": "58.138.15.31",
+  "country": "JP",
+  "fqdn": "vpn343928833.opengw.net",
+  "ssl_ports": [
+   1495
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "MyComputer's owner"
+ },
+ {
+  "ip": "133.247.156.182",
+  "country": "JP",
+  "fqdn": "vpn937243619.opengw.net",
+  "ssl_ports": [
+   1396
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Y_Suzuo's owner"
+ },
+ {
+  "ip": "183.99.3.44",
+  "country": "KR",
+  "fqdn": "vpn761837620.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1634,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "KF's owner"
+ },
+ {
+  "ip": "180.43.107.71",
+  "country": "JP",
+  "fqdn": "vpn459755685.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "N-PC's owner"
+ },
+ {
+  "ip": "114.176.63.121",
+  "country": "JP",
+  "fqdn": "vpn246853804.opengw.net",
+  "ssl_ports": [
+   1339
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "seisou's owner"
+ },
+ {
+  "ip": "27.95.189.102",
+  "country": "JP",
+  "fqdn": "vpn616353630.opengw.net",
+  "ssl_ports": [
+   1733
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "kaji7's owner"
+ },
+ {
+  "ip": "175.201.244.6",
+  "country": "KR",
+  "fqdn": "vpn833192079.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1757,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "win10-DY's owner"
+ },
+ {
+  "ip": "124.247.100.242",
+  "country": "JP",
+  "fqdn": "vpn487233765.opengw.net",
+  "ssl_ports": [
+   1784
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "User's owner"
+ },
+ {
+  "ip": "124.100.138.216",
+  "country": "JP",
+  "fqdn": "vpn622613092.opengw.net",
+  "ssl_ports": [
+   1496
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-Q7Q6JPO's owner"
+ },
+ {
+  "ip": "114.19.182.233",
+  "country": "JP",
+  "fqdn": "vpn595006213.opengw.net",
+  "ssl_ports": [
+   1329
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-2Q6GIR9's owner"
+ },
+ {
+  "ip": "121.188.159.76",
+  "country": "KR",
+  "fqdn": "vpn237870679.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1832,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-41MFG4U's owner"
+ },
+ {
+  "ip": "60.97.32.246",
+  "country": "JP",
+  "fqdn": "vpn126961380.opengw.net",
+  "ssl_ports": [
+   1840
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-DQPCKPK's owner"
+ },
+ {
+  "ip": "153.168.55.58",
+  "country": "JP",
+  "fqdn": "vpn640299231.opengw.net",
+  "ssl_ports": [
+   1960
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKMINI-310-01's owner"
+ },
+ {
+  "ip": "118.241.145.97",
+  "country": "JP",
+  "fqdn": "vpn291448484.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "AHN-Room's owner"
+ },
+ {
+  "ip": "211.187.165.54",
+  "country": "KR",
+  "fqdn": "vpn849621319.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1210,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-AT93VPB's owner"
+ },
+ {
+  "ip": "27.130.63.170",
+  "country": "TH",
+  "fqdn": "vpn864422064.opengw.net",
+  "ssl_ports": [
+   1909
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Wasin-Pinsook's owner"
+ },
+ {
+  "ip": "180.43.107.71",
+  "country": "JP",
+  "fqdn": "vpn845570707.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-4GIHQP3's owner"
+ },
+ {
+  "ip": "124.110.175.78",
+  "country": "JP",
+  "fqdn": "vpn190140048.opengw.net",
+  "ssl_ports": [
+   1484
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "yakuman96241's owner"
+ },
+ {
+  "ip": "112.144.189.84",
+  "country": "KR",
+  "fqdn": "vpn620843630.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1985,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-92P0CUT's owner"
+ },
+ {
+  "ip": "210.126.36.87",
+  "country": "KR",
+  "fqdn": "vpn573383536.opengw.net",
+  "ssl_ports": [
+   1756
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "JSK-PC's owner"
+ },
+ {
+  "ip": "222.234.186.190",
+  "country": "KR",
+  "fqdn": "vpn905080157.opengw.net",
+  "ssl_ports": [
+   1979
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-7BO8058's owner"
+ },
+ {
+  "ip": "14.46.138.208",
+  "country": "KR",
+  "fqdn": "vpn146482040.opengw.net",
+  "ssl_ports": [
+   1796
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "도우너's owner"
+ },
+ {
+  "ip": "121.187.37.7",
+  "country": "KR",
+  "fqdn": "vpn645881192.opengw.net",
+  "ssl_ports": [
+   1857
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "소명's owner"
+ },
+ {
+  "ip": "60.47.14.11",
+  "country": "JP",
+  "fqdn": "vpn617491321.opengw.net",
+  "ssl_ports": [
+   1931
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP's owner"
+ },
+ {
+  "ip": "138.64.98.248",
+  "country": "JP",
+  "fqdn": "vpn184885045.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-D70RRQ7's owner"
+ },
+ {
+  "ip": "119.231.219.29",
+  "country": "JP",
+  "fqdn": "vpn525554372.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "ryzen5-5500's owner"
+ },
+ {
+  "ip": "126.41.247.217",
+  "country": "JP",
+  "fqdn": "vpn428484785.opengw.net",
+  "ssl_ports": [
+   1570
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Im4's owner"
+ },
+ {
+  "ip": "203.229.91.15",
+  "country": "KR",
+  "fqdn": "vpn157099394.opengw.net",
+  "ssl_ports": [
+   1949
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "LAPTOP-E76IA09I's owner"
+ },
+ {
+  "ip": "112.213.209.63",
+  "country": "AU",
+  "fqdn": "vpn563962246.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-84Q2VP6's owner"
+ },
+ {
+  "ip": "60.86.217.41",
+  "country": "JP",
+  "fqdn": "vpn365309521.opengw.net",
+  "ssl_ports": [
+   1206
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-EFVIVLC's owner"
+ },
+ {
+  "ip": "121.186.186.97",
+  "country": "KR",
+  "fqdn": "vpn260016517.opengw.net",
+  "ssl_ports": [
+   1295
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-PDRSB3S's owner"
+ },
+ {
+  "ip": "77.34.239.20",
+  "country": "RU",
+  "fqdn": "vpn501803801.opengw.net",
+  "ssl_ports": [
+   1577
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-CAG6TCD's owner"
+ },
+ {
+  "ip": "211.51.178.239",
+  "country": "KR",
+  "fqdn": "vpn505854977.opengw.net",
+  "ssl_ports": [
+   1908
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "user2-PC's owner"
+ },
+ {
+  "ip": "218.152.34.192",
+  "country": "KR",
+  "fqdn": "vpn736554005.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1341,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "효끼's owner"
+ },
+ {
+  "ip": "223.204.240.113",
+  "country": "TH",
+  "fqdn": "vpn450790509.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-ECKFS73's owner"
+ },
+ {
+  "ip": "118.34.164.234",
+  "country": "KR",
+  "fqdn": "vpn816540196.opengw.net",
+  "ssl_ports": [
+   1344
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-6975O8P's owner"
+ },
+ {
+  "ip": "119.199.196.37",
+  "country": "KR",
+  "fqdn": "vpn642899027.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1251,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-UJT4TLF's owner"
+ },
+ {
+  "ip": "59.9.248.102",
+  "country": "KR",
+  "fqdn": "vpn566261919.opengw.net",
+  "ssl_ports": [
+   1627
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-IK78PR6's owner"
+ },
+ {
+  "ip": "175.129.249.17",
+  "country": "JP",
+  "fqdn": "vpn892056768.opengw.net",
+  "ssl_ports": [
+   1594
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-QL7GEOG's owner"
+ },
+ {
+  "ip": "106.172.204.253",
+  "country": "JP",
+  "fqdn": "vpn764493214.opengw.net",
+  "ssl_ports": [
+   1597
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "mika's owner"
+ },
+ {
+  "ip": "125.176.88.60",
+  "country": "KR",
+  "fqdn": "vpn591195783.opengw.net",
+  "ssl_ports": [
+   1485
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "YONGNOTEBOOK's owner"
+ },
+ {
+  "ip": "175.192.103.235",
+  "country": "KR",
+  "fqdn": "vpn686218729.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1859,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-Q0SHJ4G's owner"
+ },
+ {
+  "ip": "211.228.134.38",
+  "country": "KR",
+  "fqdn": "vpn212779120.opengw.net",
+  "ssl_ports": [
+   1879
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "록맨's owner"
+ },
+ {
+  "ip": "211.47.91.108",
+  "country": "KR",
+  "fqdn": "vpn781614143.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1866,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-UC17TSP's owner"
+ },
+ {
+  "ip": "42.116.243.208",
+  "country": "VN",
+  "fqdn": "vpn124468304.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-8AGF8VI's owner"
+ },
+ {
+  "ip": "121.54.164.4",
+  "country": "MM",
+  "fqdn": "vpn239785933.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "ENG-03's owner"
+ },
+ {
+  "ip": "221.145.88.114",
+  "country": "KR",
+  "fqdn": "vpn605829850.opengw.net",
+  "ssl_ports": [
+   1909
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-78DV9R0's owner"
+ },
+ {
+  "ip": "222.113.68.116",
+  "country": "KR",
+  "fqdn": "vpn809829082.opengw.net",
+  "ssl_ports": [
+   1385
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Myo-Desktop's owner"
+ },
+ {
+  "ip": "212.164.14.70",
+  "country": "RU",
+  "fqdn": "vpn853980609.opengw.net",
+  "ssl_ports": [
+   1313
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "PC's owner"
+ },
+ {
+  "ip": "125.129.197.183",
+  "country": "KR",
+  "fqdn": "vpn853837421.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1559,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-JPC9V7S's owner"
+ },
+ {
+  "ip": "186.122.11.166",
+  "country": "AR",
+  "fqdn": "vpn737663162.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Bocho's owner"
+ },
+ {
+  "ip": "175.202.70.23",
+  "country": "KR",
+  "fqdn": "vpn672782306.opengw.net",
+  "ssl_ports": [
+   1701
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-4EGQDF5's owner"
+ },
+ {
+  "ip": "14.34.113.187",
+  "country": "KR",
+  "fqdn": "vpn112871126.opengw.net",
+  "ssl_ports": [
+   1729
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-PD1L6K8's owner"
+ },
+ {
+  "ip": "211.115.150.18",
+  "country": "KR",
+  "fqdn": "vpn589428069.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1890,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-T5R5RG4's owner"
+ },
+ {
+  "ip": "114.205.224.64",
+  "country": "KR",
+  "fqdn": "vpn732111900.opengw.net",
+  "ssl_ports": [
+   1917
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-44O4GM2's owner"
+ },
+ {
+  "ip": "171.245.166.4",
+  "country": "VN",
+  "fqdn": "vpn240970874.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "JamesDo-ZII's owner"
+ },
+ {
+  "ip": "121.134.136.164",
+  "country": "KR",
+  "fqdn": "vpn964247477.opengw.net",
+  "ssl_ports": [
+   1573
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "Desktop-JuneFifth's owner"
+ },
+ {
+  "ip": "175.199.129.108",
+  "country": "KR",
+  "fqdn": "vpn631682929.opengw.net",
+  "ssl_ports": [
+   1985
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-FRSRIIS's owner"
+ },
+ {
+  "ip": "49.174.89.83",
+  "country": "KR",
+  "fqdn": "vpn783665852.opengw.net",
+  "ssl_ports": [
+   1488
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-68U15B8's owner"
+ },
+ {
+  "ip": "121.149.221.10",
+  "country": "KR",
+  "fqdn": "vpn915688854.opengw.net",
+  "ssl_ports": [
+   1929
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-87QSFVP's owner"
+ },
+ {
+  "ip": "211.51.178.239",
+  "country": "KR",
+  "fqdn": "vpn572961898.opengw.net",
+  "ssl_ports": [
+   1290
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-KA1V7A0's owner"
+ },
+ {
+  "ip": "87.103.202.90",
+  "country": "RU",
+  "fqdn": "vpn677645427.opengw.net",
+  "ssl_ports": [
+   1869
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "W1's owner"
+ },
+ {
+  "ip": "64.85.236.156",
+  "country": "US",
+  "fqdn": "vpn463950127.opengw.net",
+  "ssl_ports": [
+   1601
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-RJ3PHUE's owner"
+ },
+ {
+  "ip": "47.147.53.250",
+  "country": "US",
+  "fqdn": "vpn629407907.opengw.net",
+  "ssl_ports": [
+   1396
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-T4DQEUO's owner"
+ },
+ {
+  "ip": "180.241.88.151",
+  "country": "ID",
+  "fqdn": "intranet-bpkskaboki.opengw.net",
+  "ssl_ports": [
+   443,
+   992,
+   1194,
+   5555,
+   8100,
+   8888
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": ""
+ },
+ {
+  "ip": "14.53.197.8",
+  "country": "KR",
+  "fqdn": "vpn518013858.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-KOEHKP4's owner"
+ },
+ {
+  "ip": "124.255.84.202",
+  "country": "JP",
+  "fqdn": "vpn499028762.opengw.net",
+  "ssl_ports": [
+   1296
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "加地PC's owner"
+ },
+ {
+  "ip": "153.125.85.121",
+  "country": "JP",
+  "fqdn": "vpn337532103.opengw.net",
+  "ssl_ports": [
+   1624
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-E46TBQ8's owner"
+ },
+ {
+  "ip": "1.251.217.121",
+  "country": "KR",
+  "fqdn": "vpn895469035.opengw.net",
+  "ssl_ports": [],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-5JJP8O6's owner"
+ },
+ {
+  "ip": "47.157.206.117",
+  "country": "US",
+  "fqdn": "vpn678945482.opengw.net",
+  "ssl_ports": [
+   1470
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "MeNoAsus's owner"
+ },
+ {
+  "ip": "1.55.117.82",
+  "country": "VN",
+  "fqdn": "vpn967523091.opengw.net",
+  "ssl_ports": [
+   1842
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "KEn-PC's owner"
+ },
+ {
+  "ip": "47.153.190.95",
+  "country": "US",
+  "fqdn": "vpn675287546.opengw.net",
+  "ssl_ports": [
+   1559
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-KS6OKMC's owner"
+ },
+ {
+  "ip": "173.46.247.221",
+  "country": "US",
+  "fqdn": "vpn198945396.opengw.net",
+  "ssl_ports": [
+   1999
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-C5C2O0B's owner"
+ },
+ {
+  "ip": "121.152.191.145",
+  "country": "KR",
+  "fqdn": "vpn233021876.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1289,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "DESKTOP-P42U5P1's owner"
+ },
+ {
+  "ip": "87.103.202.90",
+  "country": "RU",
+  "fqdn": "vpn603225417.opengw.net",
+  "ssl_ports": [
+   1642
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "NODE-SRV1's owner"
+ },
+ {
+  "ip": "183.100.246.223",
+  "country": "KR",
+  "fqdn": "vpn909561523.opengw.net",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1977,
+   9008
+  ],
+  "l2tp": false,
+  "udp_port": 0,
+  "score": 0,
+  "sessions": 0,
+  "owner": "smhgrtpc's owner"
+ }
+]
