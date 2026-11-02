@@ -1,0 +1,2220 @@
+[
+ {
+  "ip": "1.0.108.18",
+  "country": "JP",
+  "ssl_ports": [
+   1651
+  ],
+  "fqdn": "vpn696630723.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "1.237.1.78",
+  "country": "KR",
+  "ssl_ports": [
+   1700
+  ],
+  "fqdn": "vpn443102765.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "1.53.77.196",
+  "country": "VN",
+  "ssl_ports": [
+   1783
+  ],
+  "fqdn": "vpn354406831.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "106.161.52.157",
+  "country": "JP",
+  "ssl_ports": [
+   1688
+  ],
+  "fqdn": "vpn962080154.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "106.167.141.17",
+  "country": "JP",
+  "ssl_ports": [
+   1498
+  ],
+  "fqdn": "vpn862646088.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "106.174.122.123",
+  "country": "JP",
+  "ssl_ports": [
+   1426
+  ],
+  "fqdn": "vpn294431000.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "106.243.71.229",
+  "country": "KR",
+  "ssl_ports": [
+   1761
+  ],
+  "fqdn": "vpn771151831.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "106.244.202.130",
+  "country": "KR",
+  "ssl_ports": [
+   1455
+  ],
+  "fqdn": "vpn239647879.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "110.131.199.23",
+  "country": "JP",
+  "ssl_ports": [
+   1404
+  ],
+  "fqdn": "vpn953698594.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "111.168.33.39",
+  "country": "JP",
+  "ssl_ports": [
+   1697
+  ],
+  "fqdn": "vpn110224208.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "112.144.189.84",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1985,
+   9008
+  ],
+  "fqdn": "vpn620843630.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "112.166.16.155",
+  "country": "KR",
+  "ssl_ports": [
+   1900
+  ],
+  "fqdn": "vpn466281884.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "112.168.254.233",
+  "country": "KR",
+  "ssl_ports": [
+   1761
+  ],
+  "fqdn": "vpn726593323.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "112.185.42.240",
+  "country": "KR",
+  "ssl_ports": [
+   1931
+  ],
+  "fqdn": "vpn374939105.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "112.214.34.62",
+  "country": "KR",
+  "ssl_ports": [
+   1743
+  ],
+  "fqdn": "vpn111698412.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "112.70.195.227",
+  "country": "JP",
+  "ssl_ports": [
+   1520
+  ],
+  "fqdn": "vpn953025003.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "114.156.233.159",
+  "country": "JP",
+  "ssl_ports": [
+   1730
+  ],
+  "fqdn": "vpn486662942.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "114.164.96.126",
+  "country": "JP",
+  "ssl_ports": [
+   1674
+  ],
+  "fqdn": "vpn579932260.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "114.187.200.144",
+  "country": "JP",
+  "ssl_ports": [
+   1806
+  ],
+  "fqdn": "vpn839240895.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "114.19.166.236",
+  "country": "JP",
+  "ssl_ports": [
+   1903
+  ],
+  "fqdn": "vpn433650989.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "114.19.192.131",
+  "country": "JP",
+  "ssl_ports": [
+   1818
+  ],
+  "fqdn": "vpn367701259.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "115.179.206.241",
+  "country": "JP",
+  "ssl_ports": [
+   443,
+   992,
+   1194,
+   5555
+  ],
+  "fqdn": "laud.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "115.38.101.99",
+  "country": "JP",
+  "ssl_ports": [
+   1908
+  ],
+  "fqdn": "vpn393802235.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "116.123.6.238",
+  "country": "KR",
+  "ssl_ports": [
+   1872
+  ],
+  "fqdn": "vpn150896909.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "118.82.55.107",
+  "country": "JP",
+  "ssl_ports": [
+   1290
+  ],
+  "fqdn": "vpn897910605.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "119.150.4.17",
+  "country": "JP",
+  "ssl_ports": [
+   1491
+  ],
+  "fqdn": "vpn564748125.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "119.196.134.174",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1506,
+   9008
+  ],
+  "fqdn": "vpn875209728.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "119.203.229.108",
+  "country": "KR",
+  "ssl_ports": [
+   1224
+  ],
+  "fqdn": "vpn597231384.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "120.29.134.202",
+  "country": "KR",
+  "ssl_ports": [
+   1535
+  ],
+  "fqdn": "vpn917497474.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "120.74.54.109",
+  "country": "JP",
+  "ssl_ports": [
+   1483
+  ],
+  "fqdn": "vpn329987705.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "121.105.122.11",
+  "country": "JP",
+  "ssl_ports": [
+   1339
+  ],
+  "fqdn": "vpn561392639.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "121.129.47.69",
+  "country": "KR",
+  "ssl_ports": [
+   1594
+  ],
+  "fqdn": "vpn128013158.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "121.137.117.124",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1317,
+   9008
+  ],
+  "fqdn": "vpn436828976.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "121.169.161.197",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1313,
+   9008
+  ],
+  "fqdn": "vpn992704617.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "121.175.168.193",
+  "country": "KR",
+  "ssl_ports": [
+   1453
+  ],
+  "fqdn": "vpn440808590.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "121.186.186.97",
+  "country": "KR",
+  "ssl_ports": [
+   1295
+  ],
+  "fqdn": "vpn260016517.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "121.187.37.7",
+  "country": "KR",
+  "ssl_ports": [
+   1857
+  ],
+  "fqdn": "vpn645881192.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "121.84.19.218",
+  "country": "JP",
+  "ssl_ports": [
+   1746
+  ],
+  "fqdn": "vpn240054995.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "121.86.244.13",
+  "country": "JP",
+  "ssl_ports": [
+   1495
+  ],
+  "fqdn": "vpn435394266.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "123.1.62.126",
+  "country": "JP",
+  "ssl_ports": [
+   1880
+  ],
+  "fqdn": "vpn790629726.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "123.48.124.169",
+  "country": "JP",
+  "ssl_ports": [
+   1558
+  ],
+  "fqdn": "vpn122916437.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "124.212.19.24",
+  "country": "JP",
+  "ssl_ports": [
+   1202
+  ],
+  "fqdn": "vpn458903199.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "124.215.2.130",
+  "country": "JP",
+  "ssl_ports": [
+   1358
+  ],
+  "fqdn": "vpn582125626.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "124.247.100.242",
+  "country": "JP",
+  "ssl_ports": [
+   1784
+  ],
+  "fqdn": "vpn487233765.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "124.61.46.28",
+  "country": "KR",
+  "ssl_ports": [
+   1800
+  ],
+  "fqdn": "vpn965205483.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "125.128.217.63",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1948,
+   9008
+  ],
+  "fqdn": "vpn184908966.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "125.129.66.184",
+  "country": "KR",
+  "ssl_ports": [
+   1205
+  ],
+  "fqdn": "vpn643142339.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "125.139.26.49",
+  "country": "KR",
+  "ssl_ports": [
+   1679
+  ],
+  "fqdn": "vpn609211715.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "126.119.7.27",
+  "country": "JP",
+  "ssl_ports": [
+   1550
+  ],
+  "fqdn": "vpn245204935.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "126.125.113.205",
+  "country": "JP",
+  "ssl_ports": [
+   1610
+  ],
+  "fqdn": "vpn723085520.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "126.224.139.122",
+  "country": "JP",
+  "ssl_ports": [
+   1969
+  ],
+  "fqdn": "vpn457280923.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "126.38.129.219",
+  "country": "JP",
+  "ssl_ports": [
+   1645
+  ],
+  "fqdn": "vpn160223598.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "126.79.197.198",
+  "country": "JP",
+  "ssl_ports": [
+   1684
+  ],
+  "fqdn": "vpn851717986.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "14.226.235.225",
+  "country": "VN",
+  "ssl_ports": [
+   1716
+  ],
+  "fqdn": "vpn764427404.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "14.42.230.125",
+  "country": "KR",
+  "ssl_ports": [
+   1915
+  ],
+  "fqdn": "vpn660186524.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "147.47.192.244",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1683,
+   9008
+  ],
+  "fqdn": "vpn472930231.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "149.54.231.94",
+  "country": "JP",
+  "ssl_ports": [
+   1757
+  ],
+  "fqdn": "vpn844843933.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "150.9.158.249",
+  "country": "JP",
+  "ssl_ports": [
+   1203
+  ],
+  "fqdn": "vpn295063534.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "153.151.175.100",
+  "country": "JP",
+  "ssl_ports": [
+   1677
+  ],
+  "fqdn": "vpn416641003.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "153.180.162.195",
+  "country": "JP",
+  "ssl_ports": [
+   1759
+  ],
+  "fqdn": "vpn927671187.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "153.232.94.63",
+  "country": "JP",
+  "ssl_ports": [
+   1423
+  ],
+  "fqdn": "vpn258563631.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "175.144.61.22",
+  "country": "MY",
+  "ssl_ports": [
+   992,
+   1194,
+   5555
+  ],
+  "fqdn": "vpn375420108.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "175.198.234.16",
+  "country": "KR",
+  "ssl_ports": [
+   1487
+  ],
+  "fqdn": "vpn151821463.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "175.205.141.179",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1941,
+   9008
+  ],
+  "fqdn": "vpn557183112.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "175.210.148.43",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1415,
+   9008
+  ],
+  "fqdn": "vpn709191086.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "176.197.25.215",
+  "country": "RU",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1900,
+   9008
+  ],
+  "fqdn": "vpn684692960.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "176.197.76.130",
+  "country": "RU",
+  "ssl_ports": [
+   1254
+  ],
+  "fqdn": "vpn821861855.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "177.239.89.181",
+  "country": "MX",
+  "ssl_ports": [
+   1412
+  ],
+  "fqdn": "vpn246230397.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "180.197.92.37",
+  "country": "JP",
+  "ssl_ports": [
+   1393
+  ],
+  "fqdn": "vpn521662939.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "180.198.4.253",
+  "country": "JP",
+  "ssl_ports": [
+   1411
+  ],
+  "fqdn": "vpn844197835.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "180.211.26.133",
+  "country": "KR",
+  "ssl_ports": [
+   1362
+  ],
+  "fqdn": "vpn245905369.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "180.230.30.211",
+  "country": "KR",
+  "ssl_ports": [
+   1701
+  ],
+  "fqdn": "vpn906340167.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "182.165.181.74",
+  "country": "JP",
+  "ssl_ports": [
+   1403
+  ],
+  "fqdn": "vpn148366758.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "182.20.240.27",
+  "country": "JP",
+  "ssl_ports": [
+   1535
+  ],
+  "fqdn": "vpn857468917.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "182.215.174.9",
+  "country": "KR",
+  "ssl_ports": [
+   1703
+  ],
+  "fqdn": "vpn683811137.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "183.96.143.134",
+  "country": "KR",
+  "ssl_ports": [
+   1609
+  ],
+  "fqdn": "vpn485139505.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "192.145.96.207",
+  "country": "RU",
+  "ssl_ports": [
+   1550
+  ],
+  "fqdn": "vpn786486028.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "193.232.164.58",
+  "country": "RU",
+  "ssl_ports": [
+   1403
+  ],
+  "fqdn": "vpn248213101.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "202.231.116.72",
+  "country": "JP",
+  "ssl_ports": [
+   1463
+  ],
+  "fqdn": "vpn291717277.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "203.177.99.52",
+  "country": "PH",
+  "ssl_ports": [
+   1709
+  ],
+  "fqdn": "vpn269589023.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "211.178.136.36",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1526,
+   9008
+  ],
+  "fqdn": "vpn879253505.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "211.226.71.219",
+  "country": "KR",
+  "ssl_ports": [
+   1808
+  ],
+  "fqdn": "vpn493435183.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "211.228.134.38",
+  "country": "KR",
+  "ssl_ports": [
+   1879
+  ],
+  "fqdn": "vpn212779120.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "217.138.212.62",
+  "country": "RO",
+  "ssl_ports": [
+   443,
+   992,
+   1194,
+   5555
+  ],
+  "fqdn": "opengw.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "218.112.39.161",
+  "country": "JP",
+  "ssl_ports": [
+   1783
+  ],
+  "fqdn": "vpn360937973.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "218.152.34.192",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1341,
+   9008
+  ],
+  "fqdn": "vpn736554005.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.107",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-148.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.111",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-157.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.117",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-138.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.125",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-162.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.16",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-52.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.167",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-207.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.176",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-259.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.179",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-187.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.18",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-0.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.182",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-241.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.183",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-222.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.186",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-242.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.208",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-257.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.210",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-194.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.215",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-209.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.218",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-216.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.220",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-228.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.223",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-251.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.3",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-39.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.51",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-61.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.53",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-78.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.55",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-90.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.56",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-94.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.57",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-100.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.87",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-118.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.92",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-136.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.95",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-156.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "219.100.37.96",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-152.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.97",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-95.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "219.100.37.99",
+  "country": "JP",
+  "ssl_ports": [
+   443
+  ],
+  "fqdn": "public-vpn-126.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "220.117.233.27",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1790,
+   9008
+  ],
+  "fqdn": "vpn398338983.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "220.79.186.206",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1230,
+   9008
+  ],
+  "fqdn": "vpn402846522.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "220.86.142.246",
+  "country": "KR",
+  "ssl_ports": [
+   1793
+  ],
+  "fqdn": "vpn610214050.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "220.88.108.19",
+  "country": "KR",
+  "ssl_ports": [
+   1225
+  ],
+  "fqdn": "vpn134237092.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "220.92.176.236",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1478,
+   9008
+  ],
+  "fqdn": "vpn312291996.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "220.94.193.86",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1681,
+   9008
+  ],
+  "fqdn": "vpn176473285.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "221.144.146.230",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1994,
+   9008
+  ],
+  "fqdn": "vpn521065574.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "221.145.236.183",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1439,
+   9008
+  ],
+  "fqdn": "vpn830712117.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "221.145.88.114",
+  "country": "KR",
+  "ssl_ports": [
+   1909
+  ],
+  "fqdn": "vpn605829850.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "221.153.54.47",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1906,
+   9008
+  ],
+  "fqdn": "vpn915697219.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "221.154.243.246",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1955,
+   9008
+  ],
+  "fqdn": "vpn508965699.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "221.158.167.4",
+  "country": "KR",
+  "ssl_ports": [
+   1764
+  ],
+  "fqdn": "vpn302315470.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "221.159.174.174",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1890,
+   9008
+  ],
+  "fqdn": "vpn378514663.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "221.161.52.235",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1971,
+   9008
+  ],
+  "fqdn": "vpn805501458.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "222.110.111.240",
+  "country": "KR",
+  "ssl_ports": [
+   1422
+  ],
+  "fqdn": "vpn857833232.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "222.118.203.140",
+  "country": "KR",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1976,
+   9008
+  ],
+  "fqdn": "vpn444365835.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "222.150.22.182",
+  "country": "JP",
+  "ssl_ports": [
+   1778
+  ],
+  "fqdn": "vpn746263729.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "222.224.134.143",
+  "country": "JP",
+  "ssl_ports": [
+   1990
+  ],
+  "fqdn": "vpn454701555.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "222.96.26.53",
+  "country": "KR",
+  "ssl_ports": [
+   1627
+  ],
+  "fqdn": "vpn801841079.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "27.118.4.156",
+  "country": "JP",
+  "ssl_ports": [
+   1295
+  ],
+  "fqdn": "vpn196935502.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "42.148.153.40",
+  "country": "JP",
+  "ssl_ports": [
+   1925
+  ],
+  "fqdn": "vpn981288372.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "45.89.183.66",
+  "country": "IT",
+  "ssl_ports": [
+   1723
+  ],
+  "fqdn": "vpn398736484.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "47.143.57.132",
+  "country": "US",
+  "ssl_ports": [
+   1785
+  ],
+  "fqdn": "vpn932993769.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "47.159.161.160",
+  "country": "US",
+  "ssl_ports": [
+   1955
+  ],
+  "fqdn": "vpn745412775.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "49.175.89.36",
+  "country": "KR",
+  "ssl_ports": [
+   1580
+  ],
+  "fqdn": "vpn370089776.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "49.250.188.175",
+  "country": "JP",
+  "ssl_ports": [
+   1723
+  ],
+  "fqdn": "vpn239399759.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "5.143.7.88",
+  "country": "RU",
+  "ssl_ports": [
+   1965
+  ],
+  "fqdn": "vpn536329081.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "50.39.166.245",
+  "country": "US",
+  "ssl_ports": [
+   1442
+  ],
+  "fqdn": "vpn924983651.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "50.39.205.254",
+  "country": "US",
+  "ssl_ports": [
+   1411
+  ],
+  "fqdn": "vpn181814903.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "50.46.218.102",
+  "country": "US",
+  "ssl_ports": [
+   1996
+  ],
+  "fqdn": "vpn885422487.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "58.138.15.31",
+  "country": "JP",
+  "ssl_ports": [
+   1495
+  ],
+  "fqdn": "vpn343928833.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "58.188.239.61",
+  "country": "JP",
+  "ssl_ports": [
+   5555
+  ],
+  "fqdn": "vpn2070.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "58.95.250.218",
+  "country": "JP",
+  "ssl_ports": [
+   1513
+  ],
+  "fqdn": "vpn569190458.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "58.98.206.102",
+  "country": "JP",
+  "ssl_ports": [
+   1546
+  ],
+  "fqdn": "vpn954697126.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "59.12.10.87",
+  "country": "KR",
+  "ssl_ports": [
+   1471
+  ],
+  "fqdn": "vpn105765100.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "59.135.173.211",
+  "country": "JP",
+  "ssl_ports": [
+   1571
+  ],
+  "fqdn": "vpn110060260.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "59.138.46.203",
+  "country": "JP",
+  "ssl_ports": [
+   1949
+  ],
+  "fqdn": "vpn536044436.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "59.140.3.40",
+  "country": "JP",
+  "ssl_ports": [
+   1825
+  ],
+  "fqdn": "vpn994061971.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "59.171.224.115",
+  "country": "JP",
+  "ssl_ports": [
+   1470
+  ],
+  "fqdn": "vpn986723868.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "60.124.87.220",
+  "country": "JP",
+  "ssl_ports": [
+   1743
+  ],
+  "fqdn": "vpn407145859.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "60.153.240.76",
+  "country": "JP",
+  "ssl_ports": [
+   1727
+  ],
+  "fqdn": "vpn698111062.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "60.236.15.105",
+  "country": "JP",
+  "ssl_ports": [
+   1276
+  ],
+  "fqdn": "vpn609012261.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "60.65.162.6",
+  "country": "JP",
+  "ssl_ports": [
+   1755
+  ],
+  "fqdn": "vpn294755280.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "60.75.38.101",
+  "country": "JP",
+  "ssl_ports": [
+   1822
+  ],
+  "fqdn": "vpn223473667.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "61.106.156.135",
+  "country": "KR",
+  "ssl_ports": [
+   1506
+  ],
+  "fqdn": "vpn368056474.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "61.73.11.92",
+  "country": "KR",
+  "ssl_ports": [
+   1787
+  ],
+  "fqdn": "vpn396219110.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "61.75.88.198",
+  "country": "KR",
+  "ssl_ports": [
+   1567
+  ],
+  "fqdn": "vpn610638365.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "61.96.175.132",
+  "country": "KR",
+  "ssl_ports": [
+   1625
+  ],
+  "fqdn": "vpn448129650.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "70.93.72.90",
+  "country": "US",
+  "ssl_ports": [
+   1393
+  ],
+  "fqdn": "vpn977236569.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "77.35.162.162",
+  "country": "RU",
+  "ssl_ports": [
+   1685
+  ],
+  "fqdn": "vpn327512970.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "78.29.53.144",
+  "country": "RU",
+  "ssl_ports": [
+   465,
+   995,
+   1195,
+   1349,
+   9008
+  ],
+  "fqdn": "vpn485836114.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "92.19.119.33",
+  "country": "GB",
+  "ssl_ports": [
+   1750
+  ],
+  "fqdn": "patito.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "1.20.230.98",
+  "country": "TH",
+  "ssl_ports": [],
+  "fqdn": "vpn881049455.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "1.251.217.121",
+  "country": "KR",
+  "ssl_ports": [],
+  "fqdn": "vpn895469035.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "104.28.237.58",
+  "country": "US",
+  "ssl_ports": [],
+  "fqdn": "vpn368004101.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "104.28.246.147",
+  "country": "US",
+  "ssl_ports": [],
+  "fqdn": "vpn991696904.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "109.226.248.214",
+  "country": "RU",
+  "ssl_ports": [],
+  "fqdn": "vpn358207375.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "109.252.70.79",
+  "country": "RU",
+  "ssl_ports": [],
+  "fqdn": "vpn191465867.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "111.96.156.52",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn388072280.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "112.72.150.199",
+  "country": "KR",
+  "ssl_ports": [],
+  "fqdn": "vpn107871577.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "118.236.58.19",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn300976557.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "118.70.47.212",
+  "country": "VN",
+  "ssl_ports": [],
+  "fqdn": "vpn535015030.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "125.128.30.193",
+  "country": "KR",
+  "ssl_ports": [],
+  "fqdn": "vpn251046711.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "125.143.112.27",
+  "country": "KR",
+  "ssl_ports": [],
+  "fqdn": "vpn725970097.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "125.198.79.120",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn769901257.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "133.149.91.159",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn802067174.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "133.32.165.70",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn585644050.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "133.32.46.220",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn764665879.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "138.64.80.188",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn143192243.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "164.138.95.192",
+  "country": "RU",
+  "ssl_ports": [],
+  "fqdn": "vpn339805335.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "171.6.245.38",
+  "country": "TH",
+  "ssl_ports": [],
+  "fqdn": "vpn587762543.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "176.116.165.122",
+  "country": "RU",
+  "ssl_ports": [],
+  "fqdn": "vpn451470051.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "220.106.196.57",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn929658501.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "223.204.223.171",
+  "country": "TH",
+  "ssl_ports": [],
+  "fqdn": "vpn943623731.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "27.130.110.87",
+  "country": "TH",
+  "ssl_ports": [],
+  "fqdn": "vpn844268978.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "27.130.31.53",
+  "country": "TH",
+  "ssl_ports": [],
+  "fqdn": "vpn441482379.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "39.111.254.14",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn641625728.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "46.37.145.135",
+  "country": "RU",
+  "ssl_ports": [],
+  "fqdn": "vpn624905391.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "59.139.191.107",
+  "country": "JP",
+  "ssl_ports": [],
+  "fqdn": "vpn598447077.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ },
+ {
+  "ip": "90.154.70.206",
+  "country": "RU",
+  "ssl_ports": [],
+  "fqdn": "vpn310756240.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "90.188.247.166",
+  "country": "RU",
+  "ssl_ports": [],
+  "fqdn": "vpn909152010.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "plugin"
+ },
+ {
+  "ip": "94.253.69.5",
+  "country": "RU",
+  "ssl_ports": [],
+  "fqdn": "vpn826247683.opengw.net",
+  "score": 0,
+  "sessions": 0,
+  "source": "both"
+ }
+]

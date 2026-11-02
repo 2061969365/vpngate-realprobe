@@ -6,7 +6,7 @@ on:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
 
@@ -24,26 +24,37 @@ jobs:
           mv "sing-box-${VER}-linux-amd64" sing-box
           ./sing-box/sing-box version
 
-      - name: Harvest plugin node list
-        run: python vpngate_plugin_list.py --out plugin_nodes.json
+      - name: Harvest both sources and dedupe
+        run: |
+          python harvest_all.py combined_nodes.json --polls 3 --interval 90
 
       - name: Real connect test (no tun, no root)
         run: |
-          python run_all.py plugin_nodes.json \
+          python run_all.py combined_nodes.json \
             --workers 8 --timeout 25 --out results.json
 
       - name: Summarize
         run: |
           python - <<'PY'
-          import json
+          import json, collections
+          nodes = {n['ip']: n for n in json.load(open('combined_nodes.json'))}
           r = json.load(open('results.json'))
           ok = [x for x in r if x['ok']]
-          print(f"tested={len(r)} usable={len(ok)} ({len(ok)/max(1,len(r))*100:.1f}%)")
-          cc = {}
-          for x in ok:
-              cc[x['country']] = cc.get(x['country'], 0) + 1
-          print("countries:", sorted(cc.items(), key=lambda k: -k[1]))
-          print("distinct egress:", len({x['egress'] for x in ok}))
+          print(f"dedup_nodes={len(nodes)} tested={len(r)} usable={len(ok)} "
+                f"({len(ok)/max(1,len(r))*100:.1f}%)")
+          by_src = collections.Counter()
+          for x in r:
+              s = nodes.get(x['ip'], {}).get('source', '?')
+              by_src[(s, 'ok' if x['ok'] else 'fail')] += 1
+          print("by_source:", dict(sorted(by_src.items())))
+          cc = collections.Counter(x['country'] for x in ok)
+          print("countries:", cc.most_common(10))
+          print("distinct_egress:", len({x['egress'] for x in ok}))
+          ports = collections.Counter(x['port'] for x in ok)
+          print("ports:", ports.most_common(6))
+          with open('usable.txt', 'w') as f:
+              for x in sorted(ok, key=lambda y: y['sec']):
+                  f.write(f"{x['ip']}:{x['port']}\t{x['country']}\t{x['egress']}\t{x['sec']}s\n")
           PY
 
       - uses: actions/upload-artifact@v4
@@ -51,6 +62,7 @@ jobs:
         with:
           name: vpngate-real
           path: |
-            plugin_nodes.json
+            combined_nodes.json
             results.json
+            usable.txt
           retention-days: 7
