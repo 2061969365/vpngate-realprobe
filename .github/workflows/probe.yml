@@ -1,0 +1,58 @@
+name: vpngate-real-connect
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch sing-box 1.14.4
+        run: |
+          set -euo pipefail
+          VER=1.14.4
+          curl -sLo sb.tar.gz \
+            "https://github.com/SagerNet/sing-box/releases/download/v${VER}/sing-box-${VER}-linux-amd64.tar.gz"
+          tar xzf sb.tar.gz
+          mv "sing-box-${VER}-linux-amd64" sing-box
+          ./sing-box/sing-box version
+
+      - name: Harvest plugin node list
+        run: python vpngate_plugin_list.py --out plugin_nodes.json
+
+      - name: Real connect test (no tun, no root)
+        run: |
+          python run_all.py plugin_nodes.json \
+            --workers 8 --timeout 25 --out results.json
+
+      - name: Summarize
+        run: |
+          python - <<'PY'
+          import json
+          r = json.load(open('results.json'))
+          ok = [x for x in r if x['ok']]
+          print(f"tested={len(r)} usable={len(ok)} ({len(ok)/max(1,len(r))*100:.1f}%)")
+          cc = {}
+          for x in ok:
+              cc[x['country']] = cc.get(x['country'], 0) + 1
+          print("countries:", sorted(cc.items(), key=lambda k: -k[1]))
+          print("distinct egress:", len({x['egress'] for x in ok}))
+          PY
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: vpngate-real
+          path: |
+            plugin_nodes.json
+            results.json
+          retention-days: 7
